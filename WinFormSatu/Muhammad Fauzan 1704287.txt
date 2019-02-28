@@ -1,0 +1,24 @@
+Bagian III
+
+1. Tab index tidak bisa dikosongkan tapi jika diberi nilai 0 kepada 2 properti atau lebih
+maka jika ditekan tab akan lewat ke nomor nomor tab selanjutnya.
+
+2. Bisa
+
+3. This close memberi efek tutup kepada satu form yang diberi perintah this close
+   application exit memberi efek kepada seluruh projek untuk exit
+
+4. Bisa
+
+Bagian IV
+
+1. Menggunakan fungsi show
+
+2. Fungsi show menunjukan formulir dalam non modal form. Memungkinkan user untuk menggunakan parent form
+   Fungsi show dialog menunjukan formulir dalam modal form. Memungkinkan user untuk tidak dapat menggunakan parent form
+
+3. Beres
+
+4. Beres
+
+5. Beres
